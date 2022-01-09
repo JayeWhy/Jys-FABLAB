@@ -37,6 +37,15 @@ a:hover {
     width: 100%;
     bottom: 0;
 }
+#BlogFooter {
+    background-color: #868B8E;
+    color: #DCD2CC;
+    font-family: courier;
+    font-size: 15px;
+    padding: 4px;
+    float: left;
+    width: 100%;
+}
 #body {
     margin-left: 400px;
     margin-right: 400px;
