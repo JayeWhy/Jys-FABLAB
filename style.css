@@ -13,6 +13,9 @@ a {
 a:hover {
     color: #EDE7DC;
 }
+.active {
+    color: #EDE7DC;
+}
     #jy {
     font-family: cursive; 
     font-size: 40px;
